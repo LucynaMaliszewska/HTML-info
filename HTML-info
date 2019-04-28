@@ -3,3 +3,9 @@
 <h1> Headings </h1>
 <blockquote> Quots </blockquote>
 <img>
+
+Syntax and Structure
+HTML używa tagów <> </>
+tagi zawierają atrybuty np. class="my class", style="color: red";
+tagi są zagnieżdzone w innych tagach
+stosuje się wcięcia, żeby ułatwić czytanie kodu
