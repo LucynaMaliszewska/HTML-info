@@ -9,3 +9,7 @@ HTML używa tagów <> </>
 tagi zawierają atrybuty np. class="my class", style="color: red";
 tagi są zagnieżdzone w innych tagach
 stosuje się wcięcia, żeby ułatwić czytanie kodu
+
+Head and Body tag
+<Head> zawiera dane meta,CSS,JavaScript odniesienia
+<body> zawiera wszystkie aspekty wizualne: nagłówki, obrazy, paragrafy
