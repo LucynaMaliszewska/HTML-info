@@ -13,3 +13,8 @@ stosuje się wcięcia, żeby ułatwić czytanie kodu
 Head and Body tag
 <Head> zawiera dane meta,CSS,JavaScript odniesienia
 <body> zawiera wszystkie aspekty wizualne: nagłówki, obrazy, paragrafy
+
+HTML Lists
+1.Unordered list zawiera <ul> i <li>
+2.Ordered list zawiera <ol> i <li>(list item)
+3.Definition list zawiera <dl>, <dt>(definition term) i <dd>(definition description)
